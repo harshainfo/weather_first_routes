@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherFirstRoute</string>
+    <string name="title_activity_maps">WeatherFirstRoute</string>
+    <string name="etDestinationHint">Enter destination</string>
+    <string name="etOriginHint">Enter origin</string>
+    <string name="openweather_api_key"></string>
+    <string name="icon_path">http://openweathermap.org/img/w/</string>
+</resources>
